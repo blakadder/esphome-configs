@@ -37,7 +37,7 @@ wifi:
 captive_portal:
 
 dashboard_import:
-  package_import_url: github://blakadder/esphome-configs/athom-presence-sensor.yaml
+  package_import_url: github://blakadder/esphome-configs/athom_ps01.yaml
 
 light:
   - platform: status_led
