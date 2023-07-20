@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S650JEK) &emsp; <a href="https://paypal.me/tasmotatemplates"><img src="https://img.shields.io/static/v1?logo=paypal&label=&message=Donate via PayPal&color=slategrey"></a>
 
-## athom_ps01.yaml
+## [athom_ps01.yaml](athom_ps01.yaml)
 
 Confguration for Athom mmWave Human Presence sensor (PS01). 
 
