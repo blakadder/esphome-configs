@@ -4,7 +4,7 @@
 
 ## [athom_ps01.yaml](athom_ps01.yaml)
 
-Confguration for Athom mmWave Human Presence sensor (PS01). 
+[Improved confguration](athom_ps01.yaml) for Athom mmWave Human Presence sensor (PS01). 
 
 Buy from [AliExpress](https://www.aliexpress.com/item/1005005772833515.html?aff_fcid=d53394c247264642ac0a1bfc1c85b3d0-1689887810797-02952-_DeSN8DB&tt=CPS_NORMAL&aff_fsk=_DeSN8DB&aff_platform=shareComponent-detail&sk=_DeSN8DB&aff_trace_key=d53394c247264642ac0a1bfc1c85b3d0-1689887810797-02952-_DeSN8DB&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y)
 
